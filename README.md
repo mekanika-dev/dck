@@ -15,6 +15,11 @@ The Bill of Materials is available as a CSV file, which is dynamically updated f
 
 All 3D assembly files are made in STEP format and compatible with many CAD software. Please note that you will need Git LFS installed to clone or pull the repo correctly, since these files exceed 100MB.
 
+The design files can also be viewed in web browsers using these links:
+
+- [Dust Collection Kit - Evo/Pro config](https://a360.co/49b6qqv)
+- [Dust Collection Kit - Fab config](https://a360.co/3JA0zAo)
+
 ## Assembly Guide
 
 The assembly guide is available on our [support website](https://support.mekanika.io/products/dust-collection-kit). If you have feedback or want to raise an issue about a specific assembly step, you can use the feedback buttons available on each step's page.
