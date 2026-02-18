@@ -1,0 +1,36 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01368,DCK-Fab-A,1.00,,,True
+1,M01369,DCK-Fab-A1,1.00,M01368,DCK-Fab-A,True
+2,M01360,Pipe connector-Bracket simple 26.9,2.00,M01369,DCK-Fab-A1,False
+2,M01361,Pipe connector-Hook single 26.9,2.00,M01369,DCK-Fab-A1,False
+2,M01363,Pipe connector 90° 26.9,1.00,M01369,DCK-Fab-A1,False
+2,M01364,Pipe connector-Pivot F 26.9,2.00,M01369,DCK-Fab-A1,False
+2,M01365,Pipe connector-Pivot M 26.9,2.00,M01369,DCK-Fab-A1,False
+2,M01366,Pipe connector 45° T  26.9,2.00,M01369,DCK-Fab-A1,False
+2,M01367,DCK-Steel part-Mounting plate,1.00,M01369,DCK-Fab-A1,False
+2,M01370,DCK-Fab - Screws Bag,1.00,M01369,DCK-Fab-A1,True
+3,M00451,DIN912 M6x20 Black screw,4.00,M01370,DCK-Fab - Screws Bag,False
+3,M01704,DIN912 M6x16 Black screw,2.00,M01370,DCK-Fab - Screws Bag,False
+3,M00842,Tooth Lock Washer DIN6798 M6 Type A Black,6.00,M01370,DCK-Fab - Screws Bag,False
+3,M01694,DIN9021 Washer M6x18,6.00,M01370,DCK-Fab - Screws Bag,False
+3,M00556,I-Type Sliding Nut M6,4.00,M01370,DCK-Fab - Screws Bag,False
+3,M00630,Lock Nut DIN985 M6,2.00,M01370,DCK-Fab - Screws Bag,False
+3,M01695,DIN912 M10x30 Black screw,2.00,M01370,DCK-Fab - Screws Bag,False
+3,M00627,Lock Nut DIN985 M10,2.00,M01370,DCK-Fab - Screws Bag,False
+3,M00065,Angle Bracket Simple 30x30 M6,2.00,M01370,DCK-Fab - Screws Bag,False
+3,M01391,Wago 2 connectors,1.00,M01370,DCK-Fab - Screws Bag,False
+1,M01358,Steel Pipe 26.9 - 50cm,1.00,M01368,DCK-Fab-A,False
+1,M01359,Steel Pipe 26.9 120cm,3.00,M01368,DCK-Fab-A,False
+1,M00969,Aluminium Pipe 50mm (50cm),1.00,M01368,DCK-Fab-A,False
+1,M00958,Clamping Ring (10cm),2.00,M01368,DCK-Fab-A,False
+1,M01387,Quick Lock Collar 100mm,1.00,M01368,DCK-Fab-A,False
+1,M01388,Steel structure for flexible hose -100mm,2.00,M01368,DCK-Fab-A,False
+1,M00985,DCK - Miscellaneous Bag,1.00,M01368,DCK-Fab-A,True
+2,M00959,PVC Reduction (Male100 / Female50),1.00,M00985,DCK - Miscellaneous Bag,False
+2,M00961,Manchon PVC 50 (Femelle/Femelle),1.00,M00985,DCK - Miscellaneous Bag,False
+2,M00958,Clamping Ring (10cm),2.00,M00985,DCK - Miscellaneous Bag,False
+2,M00960,DCK - Grounding Cable,1.00,M00985,DCK - Miscellaneous Bag,True
+3,M00609,"Insulated Ring Terminal 0.5mm² to 1.5mm², 22AWG to 16AWG, M4 Stud Size",1.00,M00960,DCK - Grounding Cable,False
+3,M01391,Wago 2 connectors,1.00,M00960,DCK - Grounding Cable,False
+2,M00987,Cable Tie 450mm x 5mm,13.00,M00985,DCK - Miscellaneous Bag,False
+1,M00957,"Dust Hose (Diam=10cm, L=10m)",1.00,M01368,DCK-Fab-A,False
