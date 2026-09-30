@@ -17,8 +17,8 @@ All 3D assembly files are made in STEP format and compatible with many CAD softw
 
 The design files can also be viewed in web browsers using these links:
 
-- [Dust Collection Kit - Evo/Pro config](https://a360.co/49b6qqv)
-- [Dust Collection Kit - Fab config](https://a360.co/3JA0zAo)
+- [Dust Collection Kit - Evo/Pro config](https://a360.co/3VZrafZ)
+- [Dust Collection Kit - Fab config](https://a360.co/4z9sc7J)
 
 ## Assembly Guide
 
