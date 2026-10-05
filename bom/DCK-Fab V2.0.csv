@@ -1,0 +1,36 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01414,Dust Collection Kit (FAB),1.00,,,True
+1,M01368,DCK-Fab-A,1.00,M01414,Dust Collection Kit (FAB),True
+2,M02254,Steel Pipe 26.9 - 150cm,3.00,M01368,DCK-Fab-A,False
+2,M01358,Steel Pipe 26.9 - 50cm,3.00,M01368,DCK-Fab-A,False
+2,M00957,"Dust Hose (Diam=10cm, L=5m)",2.00,M01368,DCK-Fab-A,False
+2,M02220,"Dust Hose (Diam=10cm, L=1m)",1.00,M01368,DCK-Fab-A,False
+2,M02205,Steel Female Hose Connector with Middle Groove,2.00,M01368,DCK-Fab-A,False
+2,M02262,DCK-Fab-A1,1.00,M01368,DCK-Fab-A,True
+3,M02172,DCK - Steel Parts - T-Extension Plate 6mm ,1.00,M02262,DCK-Fab-A1,False
+3,M02173,DCK - Steel Parts - Hose Connector Clip Connect - 3mm,2.00,M02262,DCK-Fab-A1,False
+3,M00055,Alu Profile V-3030 (240mm) [1x M6 thread on BOTH sides],1.00,M02262,DCK-Fab-A1,False
+3,M01363,Pipe connector 90° 26.9,1.00,M02262,DCK-Fab-A1,False
+3,M01360,Pipe connector-Bracket simple 26.9,4.00,M02262,DCK-Fab-A1,False
+3,M01361,Pipe connector-Hook single 26.9,2.00,M02262,DCK-Fab-A1,False
+3,M01364,Pipe connector-Pivot F 26.9,2.00,M02262,DCK-Fab-A1,False
+3,M01365,Pipe connector-Pivot M 26.9,2.00,M02262,DCK-Fab-A1,False
+3,M02170,A27 Pipe Connector Bracket Round Base Plate (Ø26.9),1.00,M02262,DCK-Fab-A1,False
+3,M02171,A27 Pipe Connector T-Bracket   (Ø26.9),2.00,M02262,DCK-Fab-A1,False
+3,M01366,Pipe connector 45° T  26.9,2.00,M02262,DCK-Fab-A1,False
+3,M02258,DCK - Fasteners Bag - FAB,1.00,M02262,DCK-Fab-A1,True
+4,M01694,DIN9021 Washer M6x18,7.00,M02258,DCK - Fasteners Bag - FAB,False
+4,M00556,I-Type Sliding Nut M6,9.00,M02258,DCK - Fasteners Bag - FAB,False
+4,M01636,Spacer M6x16,2.00,M02258,DCK - Fasteners Bag - FAB,False
+4,M02197,ISO7380 M6x12 Black Screw ,4.00,M02258,DCK - Fasteners Bag - FAB,False
+4,M02199,ISO7380 M6x30 Black Screw ,2.00,M02258,DCK - Fasteners Bag - FAB,False
+4,M00451,DIN912 M6x20 Black screw,4.00,M02258,DCK - Fasteners Bag - FAB,False
+3,M02260,DCK - Miscellaneous Bag FAB,1.00,M02262,DCK-Fab-A1,True
+4,M00029,Alu Profile End Cap 3030 I-type 6,1.00,M02260,DCK - Miscellaneous Bag FAB,False
+4,M00960,DCK - Grounding Cable,1.00,M02260,DCK - Miscellaneous Bag FAB,True
+5,M00609,"Insulated Ring Terminal 0.5mm² to 1.5mm², 22AWG to 16AWG, M4 Stud Size",1.00,M00960,DCK - Grounding Cable,False
+5,M01391,Wago 2 connectors,1.00,M00960,DCK - Grounding Cable,False
+4,M00987,Cable Tie 450mm x 5mm,13.00,M02260,DCK - Miscellaneous Bag FAB,False
+4,M00958,Clamping Ring (10cm),6.00,M02260,DCK - Miscellaneous Bag FAB,False
+4,M00959,PVC Reduction (Male100 / Female50),1.00,M02260,DCK - Miscellaneous Bag FAB,False
+4,M01648,Tuyau PP 50mm - 80mm,1.00,M02260,DCK - Miscellaneous Bag FAB,False
